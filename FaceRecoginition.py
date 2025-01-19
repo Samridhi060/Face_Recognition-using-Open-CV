@@ -1,3 +1,6 @@
+# Author : Samridhi Gupta
+# Date : 19/01/2025
+
 import cv2
 
 # Load the face detection model
